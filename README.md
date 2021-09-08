@@ -18,3 +18,8 @@ If you want to report bugs or contribute to OpenConnect development…
 
 * Visit the official OpenConnect development repo on Gitlab: https://gitlab.com/openconnect/openconnect/issues/
 * Check out the OpenConnect mailing list: https://www.infradead.org/openconnect/mail.html
+
+# 使用方式
+```bash
+openconnect --protocol=gp vpn.bupt.edu.cn
+```
